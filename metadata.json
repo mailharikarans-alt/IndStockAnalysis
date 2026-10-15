@@ -1,0 +1,6 @@
+{
+  "name": "BharatEquity AGENTS — Indian Equity Analysis Terminal",
+  "description": "Evidence-based, reproducible NSE/BSE stock analysis platform strictly adhering to the AGENTS.md framework with multi-agent research, DCF valuation, 12 India-specific red flags, and sector lenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
